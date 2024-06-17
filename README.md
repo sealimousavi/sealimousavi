@@ -1,7 +1,7 @@
 
 <h2> Hey there! <img src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/Hi.gif" height="30px"></h2>
 
-Software Development enthusiast, GNU/Linux Lover :heart:
+I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover :heart:
 
 ### ⚡️ Technologies
 
