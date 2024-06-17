@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**sealimousavi/sealimousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! <img src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/Hi.gif" height="30px"></h2>
 
-Here are some ideas to get you started:
+Software Development enthusiast, GNU/Linux Lover :heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Technologies
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+
+
+
+### 📫 Reach out
+
+The easiest way to contact me is by sending me an [email](mailto:sealimosavi.am@gmail.com).
