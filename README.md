@@ -9,7 +9,18 @@ Software Development enthusiast, GNU/Linux Lover :heart:
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
 
-
+ <section>
+    <h2>📕 I’m Currently Learning front-end development...</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+    <h2>📗 My Learning Plan for Future:</h2>
+    <ul>
+      <li>React and Next.Js</li>
+    </ul>
+  </section>
 
 ### 📫 Reach out
 
