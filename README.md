@@ -7,7 +7,7 @@ I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover, I also en
 ### 📖 Blog  
 
 I write about software development, Linux, AI, art, literature, society, and more.  
-Check out my latest posts here: 👉 [Blog](https://sealimousavi.github.io/) 🚀  
+[Blog](https://sealimousavi.github.io/) 🚀  
 
 ### ⚡️ Technologies
 
