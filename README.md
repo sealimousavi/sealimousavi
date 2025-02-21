@@ -3,6 +3,12 @@
 
 I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover, I also enjoy math, litriture, art and video games. :heart:
 
+
+### 📖 Blog  
+
+I write about software development, Linux, AI, art, literature, society, and more.  
+Check out my latest posts here: 👉 [Blog](https://sealimousavi.github.io/) 🚀  
+
 ### ⚡️ Technologies
 
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/sealimousavi/)](https://github.com/sealimousavi/)
