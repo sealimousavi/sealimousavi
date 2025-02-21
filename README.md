@@ -1,20 +1,20 @@
 
-<h2> Hey there! <img src="https://github.com/SinaKarimi7/SinaKarimi7/blob/master/gifs/Hi.gif" height="30px"></h2>
+<h2> Hey there! <img src="https://github.com/sealimousavi/sealimousavi/blob/main/gifs/Hi.gif" height="30px"></h2>
 
-I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover, I also enjoy math, chess, art and video games. :heart:
+I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover, I also enjoy math, litriture, art and video games. :heart:
 
 ### ⚡️ Technologies
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
-[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/sinakarimi7/)](https://github.com/sinakarimi7/)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/sealimousavi/)](https://github.com/sealimousavi/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/sealimousavi/)](https://github.com/sealimousavi/)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/sealimousavi/)](https://github.com/sealimousavi/)
 
  <section>
-    <h2>📕 I’m Currently Learning front-end development...</h2>
+    <h2>📕 I’m Currently Learning Artificial intelligence basics...</h2>
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
+      <li>Algorithms</li>
+      <li>ML</li>
+      <li>DL</li>
     </ul>
     <h2>📗 My Learning Plan for Future:</h2>
     <ul>
