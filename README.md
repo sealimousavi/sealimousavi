@@ -1,7 +1,7 @@
 
 <h2> Hey there! <img src="https://github.com/sealimousavi/sealimousavi/blob/main/gifs/Hi.gif" height="30px"></h2>
 
-I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover, I also enjoy math, litriture, art and video games. :heart:
+I'm Ali, Software Development enthusiast, Chemist and GNU/Linux Lover, I also enjoy Math, literature, art and video games. :heart:
 
 
 ### 📖 Blog  
